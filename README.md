@@ -1,8 +1,7 @@
 # gerisayim
  Timer App
 
-https://github.com/MertKocak/gerisayim/assets/74009802/91d74748-5df2-430b-9137-3c8fc8b2662f
-![WhatsApp Görsel 2023-08-19 saat 21 02 52](https://github.com/MertKocak/gerisayim/assets/74009802/cf698dbd-6b30-4d04-9f41-f08953151f1b)
-![WhatsApp Görsel 2023-08-19 s21 02 52](https://github.com/MertKocak/gerisayim/assets/74009802/dc34fc6f-6701-463e-a577-6acb864b120e)
+![WhatsApp Video 2023-08-1sx9 saat 21 04 48](https://github.com/MertKocak/gerisayim/assets/74009802/35e1b174-9ccb-4a8b-9bc5-b36d10a1e266)
+![Adsız tasarım (34)](https://github.com/MertKocak/gerisayim/assets/74009802/20fbc6ed-2369-48fd-9e73-057fd4b08543)
 
 
